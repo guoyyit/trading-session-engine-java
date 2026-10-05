@@ -1,4 +1,4 @@
-package com.github.guoyyit.tradingsessionenginejava;
+package com.github.guoyyit.tradingsessionengine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
